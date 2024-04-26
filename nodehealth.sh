@@ -24,3 +24,5 @@ free      # gb command of server
 
 
 nproc  # we can see number of cpu
+
+ps -ef # we can number of processes in server 
