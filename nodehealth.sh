@@ -25,4 +25,8 @@ free      # gb command of server
 
 nproc  # we can see number of cpu
 
-ps -ef # we can number of processes in server 
+ps -ef # we can number of processes in server
+
+# create s3 bucket help of aws cli commads
+#
+#  aws s3 mb s3://mybucket
